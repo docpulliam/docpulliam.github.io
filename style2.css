@@ -1,0 +1,25 @@
+
+div.social-media-header {
+	
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+}
+
+img.facebook-logo{
+	width: 40%;
+	height: 40px;
+}
+
+
+img.instagram-logo{
+	width: 40%;
+	height: 40px;
+}
+
+
+img.website-logo{
+	width: 40%;
+	height: 40px;
+}
+
